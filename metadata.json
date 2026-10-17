@@ -1,0 +1,6 @@
+{
+  "name": "Floema Sanctuary & Suites — Hotel Room Booking Catalog",
+  "description": "Architectural boutique hotel room booking catalog and living experience inspired by sustainable craftsmanship, minimalist aesthetics, and timeless spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
