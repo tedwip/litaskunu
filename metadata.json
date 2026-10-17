@@ -1,6 +1,6 @@
 {
-  "name": "Floema Sanctuary & Suites — Hotel Room Booking Catalog",
-  "description": "Architectural boutique hotel room booking catalog and living experience inspired by sustainable craftsmanship, minimalist aesthetics, and timeless spaces.",
+  "name": "Litaskunu Project — Dauroh & Penginapan",
+  "description": "Litaskunu Project: Suaka ketenangan arsitektur, pusat dauroh keilmuan islami, dan katalog reservasi penginapan paviliun & suite asri bernilai sakinah.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
